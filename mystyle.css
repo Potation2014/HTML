@@ -12,7 +12,12 @@ p {
   }
 
 #header{
-    height: 10em;
+    height: 15em;
+    width: 100%;
+}
+
+#body{
+    height: 50em;
     width: 100%;
 }
 
