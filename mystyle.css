@@ -5,3 +5,8 @@ div{
 p {
   color: yellow;
   }
+
+#header{
+    height: 10em;
+    width: 100%;
+}
