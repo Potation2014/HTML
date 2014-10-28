@@ -17,8 +17,16 @@ p {
     width: 100%;
 }
 
+header div{
+    display: inline-block;
+}
+
+body div{
+    display: inline-block;
+}
+
 #body{
-    height: 50em;
+    height: 30em;
     width: 100%;
 }
 
@@ -26,8 +34,12 @@ p {
     background:url(http://www.viivilla.no/globalassets/viivilla.no/7/9/e/79edfcce-b3d7-46fc-a661-50c6d3948a38.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    width: 20em;
+    height: 10em;
 }
 
-#headername {
-    
+#footer{
+    height: 20em;
+    width: 100%;
+    bottom: 0;
 }
