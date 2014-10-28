@@ -1,11 +1,3 @@
-body{
-
-}
-#container {
-    margin-left:15%;
-	margin-right:15%;
-	width: 61,8%;
-}
 div{
     border: 2px solid red;
 }
@@ -17,4 +9,14 @@ p {
 #header{
     height: 10em;
     width: 100%;
+}
+
+#headerpicture {
+    background:url(http://www.viivilla.no/globalassets/viivilla.no/7/9/e/79edfcce-b3d7-46fc-a661-50c6d3948a38.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#headername {
+    
 }
