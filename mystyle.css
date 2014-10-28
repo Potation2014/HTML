@@ -1,6 +1,11 @@
 div{
     border: 2px solid red;
 }
+#container {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 61,8%;
+}
 
 p {
   color: yellow;
